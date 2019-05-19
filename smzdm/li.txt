@@ -1,0 +1,66 @@
+<li class="feed-row-wide" articleid="13893925" data-position="1" data-cid="2" data-atp="3" data-tagid="&#x65E0;">
+        <h5 class="feed-block-title">
+        	<a href="https://www.smzdm.com/p/13893925/" target="_blank" onclick="dataLayer.push({'event':'品类页_好价_标题','位置':'1','文章标题':'彪马PUMA 女子 跑步鞋 Flare FM 运动鞋 190573 02黑色37码','分类名':'跑鞋'})">
+        		                    <span class="z-red-mark">好价</span>
+        		        		彪马PUMA 女子 跑步鞋 Flare FM 运动鞋 190573 02黑色37码        		<span class="z-highlight">200元</span>
+        	</a>
+        </h5>
+        <div class="feed-block z-hor-feed">
+            <div class="z-feed-img">
+                <a href="https://www.smzdm.com/p/13893925/" target="_blank" onclick="dataLayer.push({'event':'品类页_好价_图片','位置':'1','文章标题':'彪马PUMA 女子 跑步鞋 Flare FM 运动鞋 190573 02黑色37码','分类名':'跑鞋'})">
+                    <img src="https://qny.smzdm.com/201905/18/5cdfe98b04ac16265.jpg_d200.jpg" alt="图片"/>
+                </a>
+            </div>
+            <div class="z-feed-content no-payments">
+                <div class="feed-block-descripe">
+                	特卖特价，只要200                </div>
+                <div class="feed-block-info">
+                	                    <span>爆料人：宠辱不惊321</span>
+                                        <span class="feed-block-tags">标签：
+                    	<a href="https://www.smzdm.com/fenlei/paobuxie/">跑鞋</a>						                   </span>
+                </div>
+                <div class="z-feed-foot">
+                    <div class="z-feed-foot-l">
+                        <span class="feed-btn-group">
+					        <a href="javascript:;" class="J_zhi_like_fav price-btn-up" data-channel="3" data-article="13893925" data-type="zhi" data-zhi-type="1">
+					            <span class="unvoted-wrap">
+					                <i class="z-icon-zhi"/>
+					                <span>0</span>
+					            </span>
+					            <span class="voted-wrap">
+					                已打分
+					            </span>
+					            <span class="one-plus">+1</span>
+					       </a>
+					       <a href="javascript:;" class="J_zhi_like_fav price-btn-down" data-channel="3" data-article="13893925" data-type="zhi" data-zhi-type="-1">
+					            <span class="unvoted-wrap">
+					                <i class="z-icon-buzhi"/>
+					                <span>0</span>
+					            </span>
+					            <span class="voted-wrap">
+					                已打分
+					            </span>
+					            <span class="one-plus">+1</span>
+					       </a>
+                        </span>
+                        <a href="javascript:;" class="J_zhi_like_fav z-group-data" title="收藏数" data-channel="3" data-article="13893925" data-type="fav">
+                            <i class="z-icon-star-empty"/>
+                            <span>0</span>
+                        </a>
+                        <a href="https://www.smzdm.com/p/13893925/#comments" target="_blank" class="z-group-data" title="评论数">
+                            <i class="z-icon-comment"/>0                        </a>
+                    </div>
+                                        <div class="z-feed-foot-r">
+                        <!-- 单链接 -->
+                        <div class="feed-link-btn">
+					        <div class="feed-link-btn-inner">
+					        		                       			<a class="z-btn z-btn-red" href="https://go.smzdm.com/79f4f25827f9490a/ca_aa_fx_191_13893925_0_0_199_0" target="_blank" rel="nofollow" onclick="gtmAddToCart({'name':'彪马PUMA 女子 跑步鞋 Flare FM 运动鞋 190573 02黑色37码','id':'13893925' , 'price':'0','brand':'PUMA/彪马' ,'mall':'京东', 'category':'运动户外/运动鞋袜/跑鞋','metric1':'0','dimension10':'jd.com','dimension9':'faxian','dimension11':'5阶价格','dimension20':'无','dimension32':'','dimension34':'7390896','dimension25':'0','dimension64':'pinlei'})">直达链接</a>
+	                       							        </div>
+					    </div>
+					    <span class="feed-block-extras">5分钟前					     																<a href="https://www.smzdm.com/mall/jd/" class="mall" target="_blank">京东</a>
+																			</span>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </li>
